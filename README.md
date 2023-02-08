@@ -33,3 +33,9 @@
 
 1. Verify sign-in page elements
 2. Verify create-account page elements
+
+### [3. User Journeys](https://github.com/amir-ubay-qa/robotframework/blob/main/testcases/amazon/03-user-journeys)
+
+1. Simulate create account (Until puzzle verification)
+2. Simulate sign-in with invalid email
+
