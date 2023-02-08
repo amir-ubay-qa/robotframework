@@ -28,3 +28,8 @@
 11. Open "customer services" page from homepage
 12. Open "registry" page from homepage
 13. Open "sell" page from homepage
+
+### [2. Elements Verification](https://github.com/amir-ubay-qa/robotframework/blob/main/testcases/amazon/02-elements-verifications)
+
+1. Verify sign-in page elements
+2. Verify create-account page elements
