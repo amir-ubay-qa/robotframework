@@ -23,3 +23,5 @@ Open Create-Account Page
     Open Sign-In Page
     Click Element                   ${SIGIN_CREATEACCOUNT_BUTTON}
     Wait Until Location Contains    register
+
+# API Related Keywords

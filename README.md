@@ -39,3 +39,24 @@
 1. Simulate create account (Until puzzle verification)
 2. Simulate sign-in with invalid email
 
+## Reqres.in
+
+### [1. User Endpoint Verification](https://github.com/amir-ubay-qa/robotframework/blob/main/testcases/reqres/01-user-endpoint)
+
+1. Verify get list users page 1 respones key
+2. Verify get list users page 1 response value
+3. Verify list user data in page 1
+4. Verify list user data in page 2
+5. Verify single user data with id 2
+6. Verify response of single user not found
+7. Verify response of create a new user
+8. Verify response of update a user
+9. Verify response of delete a user
+
+
+### [2. Authentication](https://github.com/amir-ubay-qa/robotframework/blob/main/testcases/reqres/02-user-authentication)
+
+1. Verify response when register succesfully
+2. Verify response register failed
+3. Verify response login succesfully
+4. Verify response login failed
